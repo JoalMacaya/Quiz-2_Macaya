@@ -1,0 +1,52 @@
+body {
+	box-sizing: border box;
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url(https://image.slidesdocs.com/responsive-images/background/handdrawn-style-blue-cute-education-math-lovely-powerpoint-background_a698b5341c__960_540.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.container {
+	border: 1px solid black;
+	background-color: #fbb040;
+	padding: 20px;
+	display: flexbox;
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 20px;
+	
+	
+		
+}
+
+.container input {
+	margin-botton: 1px;
+	
+}
+
+#btn {
+	color: white;
+	background-color: #2d388a;
+	border: none;
+	padding: 5px 15px;
+
+	
+}
+
+#btn:hover {
+	background-color: rgb(122, 198,122);
+	color: #2d388a;
+	
+}
+
+.answer-box {
+	border: 1px solid black;
+	padding: 0 20px;
+	width: 30%;
+	margin: 0 auto;
+	background-color: #fbb040;
+	
+}
